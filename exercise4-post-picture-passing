@@ -1,0 +1,7 @@
+============================= test session starts ==============================
+collecting ... collected 11 items / 9 deselected / 2 selected
+
+tests/test_api.py::test_post_picture PASSED
+tests/test_api.py::test_post_picture_duplicate PASSED
+
+======================= 2 passed, 9 deselected in 0.05s ========================
